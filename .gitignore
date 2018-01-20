@@ -1,0 +1,10 @@
+
+# intellij project files and directories exclusions
+**/.idea
+**/*.iml
+
+# project specific exclusions
+**/drivers/**
+
+# maven specific exclusions
+**/target/**
